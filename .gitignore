@@ -1,0 +1,12 @@
+*.sublime-project
+.imdone
+.imdoneignore
+.sfdx
+config
+debug
+docs
+resource-bundles
+node_modules
+standard*
+src/objects/*
+!src/objects/*__c*
